@@ -9,8 +9,8 @@
     <icon>https://Dadayablin.github.io/BotHelp/img/logo.webp</icon>
     <entry>
         <title type="html"><![CDATA[Обновление]]></title>
-        <id>Бот</id>
-        <link href="https://Dadayablin.github.io/BotHelp/blog/Бот"/>
+        <id>База данных</id>
+        <link href="https://Dadayablin.github.io/BotHelp/blog/База данных"/>
         <updated>2022-09-19T00:00:00.000Z</updated>
         <author>
             <name>FrostyDeFreeze</name>
