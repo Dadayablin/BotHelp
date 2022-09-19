@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbot_help=self.webpackChunkbot_help||[]).push([[119],{7756:function(e){e.exports=JSON.parse('[{"label":"bot","permalink":"/BotHelp/blog/tags/bot","count":2},{"label":"update","permalink":"/BotHelp/blog/tags/update","count":2}]')}}]);

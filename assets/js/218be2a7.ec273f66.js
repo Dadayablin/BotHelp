@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbot_help=self.webpackChunkbot_help||[]).push([[890],{4789:function(e){e.exports=JSON.parse('{"permalink":"/BotHelp/blog/tags/update","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
