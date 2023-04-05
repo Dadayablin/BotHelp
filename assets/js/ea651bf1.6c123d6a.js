@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbot_help=self.webpackChunkbot_help||[]).push([[929],{6326:function(e){e.exports=JSON.parse('{"permalink":"/BotHelp/blog/tags/bot","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

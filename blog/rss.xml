@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>FrostyDeBot Blog</title>
+        <title>Dadayabot Blog</title>
         <link>https://Dadayablin.github.io/BotHelp/blog</link>
-        <description>FrostyDeBot Blog</description>
-        <lastBuildDate>Mon, 19 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <description>Dadayabot Blog</description>
+        <lastBuildDate>Sat, 28 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
         <item>
-            <title><![CDATA[Обновление]]></title>
-            <link>https://Dadayablin.github.io/BotHelp/blog/База данных</link>
-            <guid>База данных</guid>
-            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
-            <category>bot</category>
-            <category>update</category>
-        </item>
-        <item>
-            <title><![CDATA[Информация о боте]]></title>
+            <title><![CDATA[nyam]]></title>
             <link>https://Dadayablin.github.io/BotHelp/blog/Бот</link>
             <guid>Бот</guid>
             <pubDate>Sat, 28 May 2022 00:00:00 GMT</pubDate>
             <category>bot</category>
-            <category>update</category>
         </item>
     </channel>
 </rss>

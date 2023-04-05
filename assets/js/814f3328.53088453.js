@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbot_help=self.webpackChunkbot_help||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"nyam","permalink":"/BotHelp/blog/\u0411\u043e\u0442"}]}')}}]);

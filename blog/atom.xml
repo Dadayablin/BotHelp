@@ -1,34 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Dadayablin.github.io/BotHelp/blog</id>
-    <title>FrostyDeBot Blog</title>
-    <updated>2022-09-19T00:00:00.000Z</updated>
+    <title>Dadayabot Blog</title>
+    <updated>2022-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Dadayablin.github.io/BotHelp/blog"/>
-    <subtitle>FrostyDeBot Blog</subtitle>
+    <subtitle>Dadayabot Blog</subtitle>
     <icon>https://Dadayablin.github.io/BotHelp/img/logo.webp</icon>
     <entry>
-        <title type="html"><![CDATA[Обновление]]></title>
-        <id>База данных</id>
-        <link href="https://Dadayablin.github.io/BotHelp/blog/База данных"/>
-        <updated>2022-09-19T00:00:00.000Z</updated>
-        <author>
-            <name>FrostyDeFreeze</name>
-            <uri>https://github.com/FrostyDeFreeze</uri>
-        </author>
-        <category label="bot" term="bot"/>
-        <category label="update" term="update"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Информация о боте]]></title>
+        <title type="html"><![CDATA[nyam]]></title>
         <id>Бот</id>
         <link href="https://Dadayablin.github.io/BotHelp/blog/Бот"/>
         <updated>2022-05-28T00:00:00.000Z</updated>
         <author>
-            <name>FrostyDeFreeze</name>
-            <uri>https://github.com/FrostyDeFreeze</uri>
+            <name>dadayao_o</name>
+            <uri>https://github.com/Dadayablin</uri>
         </author>
         <category label="bot" term="bot"/>
-        <category label="update" term="update"/>
     </entry>
 </feed>
